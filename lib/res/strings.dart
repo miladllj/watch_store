@@ -4,6 +4,7 @@ abstract class AppStrings {
   static const String enterYourNumber = 'شماره خود را وارد کنید';
   static const String hintPhoneNumber = 'مثل 09141111111';
   static const String enterVerificationCode = '_ _ _ _ _ _';
+  static const String enterActivationCode = 'کد فعالسازی را وارد کنید';
   static const String next = 'ادامه';
   static const String cart = 'سبد خرید';
   static const String delivered = 'تحویل شده';

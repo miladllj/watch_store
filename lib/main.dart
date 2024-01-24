@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:watch_store/components/theme.dart';
-import 'package:watch_store/route/names.dart';
 import 'package:watch_store/route/routes.dart';
 import 'package:watch_store/screens/auth/cubit/auth_cubit.dart';
 import 'package:watch_store/screens/auth/send_sms_screen.dart';

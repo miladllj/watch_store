@@ -1,14 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:watch_store/components/extention.dart';
 import 'package:watch_store/components/text_style.dart';
 import 'package:watch_store/gen/assets.gen.dart';
-import 'package:watch_store/res/colors.dart';
 import 'package:watch_store/res/dimens.dart';
 import 'package:watch_store/res/strings.dart';
 import 'package:watch_store/widgets/app_bar.dart';
 import 'package:watch_store/widgets/shopping_cart_item.dart';
-import 'package:watch_store/widgets/surface_container.dart';
 
 class CartScreen extends StatelessWidget {
   const CartScreen({super.key});
